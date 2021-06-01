@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>code.selwyn</groupId>
     <artifactId>classes-scanner</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <name>classes-scanner</name>
     <description>同名类扫描工具</description>
 
