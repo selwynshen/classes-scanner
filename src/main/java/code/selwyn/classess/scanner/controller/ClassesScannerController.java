@@ -1,7 +1,4 @@
-/**
- * Hrfax Inc.
- * Copyright (c) 2020-2066 All Rights Reserved.
- */
+
 package code.selwyn.classess.scanner.controller;
 
 import code.selwyn.classess.scanner.service.ClassesScannerService;
